@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\bin\Debug\kostroEugenKlaseProcess.exe.config
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\bin\Debug\kostroEugenKlaseProcess.exe
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\bin\Debug\kostroEugenKlaseProcess.pdb
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\obj\Debug\kostroEugenKlaseProcess.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\obj\Debug\kostroEugenKlaseProcess.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\obj\Debug\kostroEugenKlaseProcess.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\obj\Debug\kostroEugenKlaseProcess.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\obj\Debug\kostroEugenKlaseProcess.exe
+C:\Users\kostr\source\repos\kostroEugenKlaseProcess\kostroEugenKlaseProcess\obj\Debug\kostroEugenKlaseProcess.pdb
