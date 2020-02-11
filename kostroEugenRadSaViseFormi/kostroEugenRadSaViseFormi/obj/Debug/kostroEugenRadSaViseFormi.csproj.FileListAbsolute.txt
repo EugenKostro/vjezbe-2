@@ -1,0 +1,10 @@
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\bin\Debug\kostroEugenRadSaViseFormi.exe.config
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\bin\Debug\kostroEugenRadSaViseFormi.exe
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\bin\Debug\kostroEugenRadSaViseFormi.pdb
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.FormUnosNovogStudenta.resources
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.exe
+C:\Users\kostr\source\repos\kostroEugenRadSaViseFormi\kostroEugenRadSaViseFormi\obj\Debug\kostroEugenRadSaViseFormi.pdb
