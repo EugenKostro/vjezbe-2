@@ -1,0 +1,9 @@
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\obj\Debug\kostroEugenMarkaAuta.csprojAssemblyReference.cache
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\obj\Debug\kostroEugenMarkaAuta.Form1.resources
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\obj\Debug\kostroEugenMarkaAuta.Properties.Resources.resources
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\obj\Debug\kostroEugenMarkaAuta.csproj.GenerateResource.cache
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\bin\Debug\kostroEugenMarkaAuta.exe.config
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\bin\Debug\kostroEugenMarkaAuta.exe
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\bin\Debug\kostroEugenMarkaAuta.pdb
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\obj\Debug\kostroEugenMarkaAuta.exe
+C:\Users\kostr\source\repos\kostroEugenMarkaAuta\kostroEugenMarkaAuta\obj\Debug\kostroEugenMarkaAuta.pdb
